@@ -1,0 +1,7 @@
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
